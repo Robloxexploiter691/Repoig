@@ -1,0 +1,28 @@
+
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.spdm.Codex",
+      "developerName": "Spdmteam.com",
+      "downloadURL": "https://www.dropbox.com/scl/fi/hogidipn9gkepj17zmmu0/Codex_2.617.655_1711397848.ipa?rlkey=ae1o1sookebkyi9o0n4vzjo1i&dl=1",
+      "iconURL": "https://i.imgur.com/SeIe2N6.jpeg",
+      "localizedDescription": "Codex is a amazing exploit thats like scriptware",
+      "name": "Codex",
+      "screenshotURLs": [
+        "https://i.imgur.com/NwzoQvD.jpeg",
+        "https://i.imgur.com/Cw8iq1a.png",
+        "https://i.imgur.com/2nb4sIz.jpeg"
+      ],
+      "subtitle": "Roblox exploit",
+      "tintColor": "",
+      "version": "2.617.655",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "New version 2.617.655"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Roblox exploits",
+  "news": [],
+  "userInfo": {}
+}
