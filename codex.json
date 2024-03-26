@@ -1,4 +1,3 @@
-
 {
   "apps": [
     {
@@ -6,7 +5,7 @@
       "bundleIdentifier": "com.spdm.Codex",
       "developerName": "Spdmteam.com",
       "downloadURL": "https://www.dropbox.com/scl/fi/hogidipn9gkepj17zmmu0/Codex_2.617.655_1711397848.ipa?rlkey=ae1o1sookebkyi9o0n4vzjo1i&dl=1",
-      "iconURL": "https://i.imgur.com/SeIe2N6.jpeg",
+      "iconURL": "https://i.imgur.com/qSoFLMQ.jpeg",
       "localizedDescription": "Codex is a amazing exploit thats like scriptware",
       "name": "Codex",
       "screenshotURLs": [
